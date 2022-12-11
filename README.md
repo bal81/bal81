@@ -4,7 +4,7 @@
 **bal81/bal81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on buildong my GitHib profile with Data Science projects.
 - 🌱 I’m currently learning TesnorFlow for Deep Learning.
 - 👯 I’m looking to collaborate on data scoence projects.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: click below on my Linkeding profile.
 - 😄 Pronouns: He/his.
 - ⚡ Fun fact: I enjoy cooking when I'm not coding.
--->
+
 
 
 ### Background
